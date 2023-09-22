@@ -8,7 +8,6 @@ package emart3;
 public class Test {
 
     public static void main(String[] args) {
-
         GroceryModule module=new GroceryModule();
         module.configureExport("FLIPKART");
         module.configureFetch("VEG");
